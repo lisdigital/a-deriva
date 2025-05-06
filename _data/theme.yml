@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: /assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg
+featured-image: https://img.atlasobscura.com/wOeoRHJwxYtnIuhbpbjZ8HPx-GvIJ0MKI6OsAgZowCY/rt:fit/w:1200/q:80/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy83ZTA4/NGVjZi1iZDU0LTRj/MDUtOGUyMy0yYjBi/YTA2ODZhNzY1YWE3/OWVmOGQ1YzZmN2Ew/NzlfVHJvb3Bfb2Zf/bW9ua2V5cy5fVGhl/X2NoaWNrZW4nc193/ZWRkaW5nXyhjLl8x/NjYwLTE2NjcpXy1f/V29ya3Nob3BfTWFu/dWVsX0ZyYW5jaXNj/b18oXylfKDI5MjYw/MjEyNDA4KS5qcGc.webp
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
