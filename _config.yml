@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: "Drifting: Os Escritores"
+title: "A Deriva / Os Escritores"
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: "A collection of Portuguese wall art"
+tagline: "Portuguese street art and graffiti"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "These images were taken during iSchool Portugal: Innovation, Democracy, and Cultural Heritage."
+description: "These images were taken during the 2024 iSchool program Innovation, Democracy, and Cultural Heritage in Portugal."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: lisdigital
 
